@@ -1,0 +1,14 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+.flexer{
+    display: flex;
+    gap: 1rem;
+}
